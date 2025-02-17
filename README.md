@@ -1,4 +1,6 @@
 # Flexopus Device Connect
+![GitHub Release](https://img.shields.io/github/v/release/flexopus/flexopus-device-connect)
+
 Repository containing the releases for the Flexopus Device Connect application. The source code of the application is not uploaded to this repository.
 
 ## Release assets
