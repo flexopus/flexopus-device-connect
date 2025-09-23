@@ -1,5 +1,6 @@
 # Flexopus Device Connect
-![GitHub Release](https://img.shields.io/github/v/release/flexopus/flexopus-device-connect) ![GitHub Release](https://img.shields.io/github/v/release/flexopus/flexopus-device-connect?include_prereleases&filter=preview-*&label=pre-release)
+[![GitHub Release](https://img.shields.io/github/v/release/flexopus/flexopus-device-connect)](https://github.com/flexopus/flexopus-device-connect/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/flexopus/flexopus-device-connect?include_prereleases&filter=preview-*&label=pre-release)](https://github.com/flexopus/flexopus-device-connect/releases?q=preview-&expanded=true)
 
 
 Repository containing the releases for the Flexopus Device Connect application. The application source code is not uploaded to this repository.
